@@ -1,0 +1,14 @@
+## *Ejercicio 2: Trivia*
+
+Construye una aplicación que cuando ingreses deberá pedir ingresar algunos datos.
+
+Luego de eso podrás elegir una categoría de preguntas.
+
+A continuación, mostrará de manera aleatoria preguntas que se encuentran en un 
+banco de preguntas con 5 posibles respuestas, pero solo una será la correcta.
+
+Debe pedirme responder 20 preguntas, y cuando termine la ultima, 
+debe entregarme un mensaje de felicitaciones y 
+agregarme al ranking de usuarios que han terminado el juego.
+
+Además debe mostrarme el tiempo que me tomó terminar esta trivia.

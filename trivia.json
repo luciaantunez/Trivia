@@ -1,0 +1,294 @@
+{
+    "categorias": [
+      {
+        "nombre": "Geografía",
+        "id": "geografia",
+        "color": "Azul",
+        "preguntas": [
+          {
+            "pregunta": "¿Cuál es el río más largo del mundo?",
+            "opciones": ["Amazonas", "Nilo", "Yangtsé", "Misisipi"],
+            "respuesta_correcta": "Amazonas"
+          },
+          {
+            "pregunta": "¿Cuál es la capital de Francia?",
+            "opciones": ["Londres", "Roma", "París", "Madrid"],
+            "respuesta_correcta": "París"
+          },
+          {
+            "pregunta": "¿En qué país se encuentra la Gran Barrera de Coral?",
+            "opciones": ["Australia", "Brasil", "México", "Filipinas"],
+            "respuesta_correcta": "Australia"
+          },
+          {
+            "pregunta": "¿Cuál es el país más grande del mundo por área terrestre?",
+            "opciones": ["Estados Unidos", "China", "Rusia", "Canadá"],
+            "respuesta_correcta": "Rusia"
+          },
+          {
+            "pregunta": "¿Cuál es la montaña más alta del mundo?",
+            "opciones": ["Monte Everest", "K2", "Kangchenjunga", "Makalu"],
+            "respuesta_correcta": "Monte Everest"
+          },
+          {
+            "pregunta": "¿Cuál es el océano más grande del mundo?",
+            "opciones": ["Atlántico", "Pacífico", "Índico", "Ártico"],
+            "respuesta_correcta": "Pacífico"
+          },
+          {
+            "pregunta": "¿Cuál es la ciudad más poblada del mundo?",
+            "opciones": ["Tokio", "Mumbai", "Shanghái", "Pekín"],
+            "respuesta_correcta": "Tokio"
+          },
+          {
+            "pregunta": "¿Cuál es el punto más bajo de la Tierra?",
+            "opciones": ["Valle de la Muerte", "Cañón del Diablo", "Lago Asal", "Fosa de las Marianas"],
+            "respuesta_correcta": "Fosa de las Marianas"
+          },
+          {
+            "pregunta": "¿Cuál es el país con la mayor cantidad de islas en el mundo?",
+            "opciones": ["Indonesia", "Filipinas", "Malasia", "Suecia"],
+            "respuesta_correcta": "Suecia"
+          },
+          {
+            "pregunta": "¿Cuál es la longitud total de la Gran Muralla China?",
+            "opciones": ["8,851.8 kilómetros", "13,170.7 kilómetros", "21,196.18 kilómetros", "5,500 kilómetros"],
+            "respuesta_correcta": "13,170.7 kilómetros"
+          }
+        ]
+      },
+
+      {
+        "nombre": "Arte y Literatura",
+        "id": "arte-y-literatura",
+        "color": "Morado",
+        "preguntas": [
+          {
+            "pregunta": "¿Quién escribió 'Don Quijote de la Mancha'?",
+            "opciones": ["Miguel de Cervantes", "Gabriel García Márquez", "Jorge Luis Borges", "William Shakespeare"],
+            "respuesta_correcta": "Miguel de Cervantes"
+            },
+            {
+            "pregunta": "¿Quién pintó la 'Mona Lisa'?",
+            "opciones": ["Pablo Picasso", "Leonardo da Vinci", "Vincent van Gogh", "Claude Monet"],
+            "respuesta_correcta": "Leonardo da Vinci"
+            },
+            {
+            "pregunta": "¿En qué país nació el escritor William Shakespeare?",
+            "opciones": ["Inglaterra", "Francia", "Italia", "Alemania"],
+            "respuesta_correcta": "Inglaterra"
+            },
+            {
+            "pregunta": "¿Cuál es la obra más famosa de Vincent van Gogh?",
+            "opciones": ["La noche estrellada", "Los girasoles", "La habitación en Arlés", "Los lirios"],
+            "respuesta_correcta": "La noche estrellada"
+            },
+            {
+            "pregunta": "¿Quién escribió 'Cien años de soledad'?",
+            "opciones": ["Gabriel García Márquez", "Mario Vargas Llosa", "Julio Cortázar", "Isabel Allende"],
+            "respuesta_correcta": "Gabriel García Márquez"
+            },
+            {
+            "pregunta": "¿Quién fue el autor de 'El grito'?",
+            "opciones": ["Pablo Picasso", "Vincent van Gogh", "Edvard Munch", "Salvador Dalí"],
+            "respuesta_correcta": "Edvard Munch"
+            },
+            {
+            "pregunta": "¿Cuál es la obra más famosa de William Shakespeare?",
+            "opciones": ["Romeo y Julieta", "Hamlet", "Macbeth", "Otelo"],
+            "respuesta_correcta": "Hamlet"
+            },
+            {
+            "pregunta": "¿Quién escribió 'Orgullo y prejuicio'?",
+            "opciones": ["Emily Brontë", "Jane Austen", "Charlotte Brontë", "Virginia Woolf"],
+            "respuesta_correcta": "Jane Austen"
+            },
+            {
+            "pregunta": "¿Quién es el autor de la pintura 'La persistencia de la memoria'?",
+            "opciones": ["Salvador Dalí", "Pablo Picasso", "Vincent van Gogh", "René Magritte"],
+            "respuesta_correcta": "Salvador Dalí"
+            },
+            {
+            "pregunta": "¿En qué país nació el pintor Pablo Picasso?",
+            "opciones": ["España", "Francia", "Italia", "Alemania"],
+            "respuesta_correcta": "España"
+            }
+        ]
+      },
+
+      {
+        "nombre": "Historia",
+        "id": "historia",
+        "color": "Amarillo",
+        "preguntas": [
+            {
+                "pregunta": "¿En qué año comenzó la Segunda Guerra Mundial?",
+                "opciones": ["1939", "1941", "1945", "1914"],
+                "respuesta_correcta": "1939"
+            },
+            {
+                "pregunta": "¿Quién fue el primer presidente de los Estados Unidos?",
+                "opciones": ["George Washington", "Thomas Jefferson", "Abraham Lincoln", "John Adams"],
+                "respuesta_correcta": "George Washington"
+            },
+            {
+                "pregunta": "¿Cuál fue la capital del Imperio Romano?",
+                "opciones": ["Roma", "Atenas", "Cartago", "Constantinopla"],
+                "respuesta_correcta": "Roma"
+            },
+            {
+                "pregunta": "¿En qué año se firmó la Declaración de Independencia de los Estados Unidos?",
+                "opciones": ["1776", "1789", "1804", "1812"],
+                "respuesta_correcta": "1776"
+            },
+            {
+                "pregunta": "¿Quién fue el líder de la Revolución Rusa de 1917?",
+                "opciones": ["Vladimir Lenin", "Joseph Stalin", "Leon Trotsky", "Mijaíl Gorbachov"],
+                "respuesta_correcta": "Vladimir Lenin"
+            },
+            {
+                "pregunta": "¿En qué año se inició la Revolución Francesa?",
+                "opciones": ["1789", "1815", "1799", "1830"],
+                "respuesta_correcta": "1789"
+            },
+            {
+                "pregunta": "¿Qué país fue el primero en lanzar un satélite artificial al espacio?",
+                "opciones": ["Unión Soviética", "Estados Unidos", "China", "Francia"],
+                "respuesta_correcta": "Unión Soviética"
+            },
+            {
+                "pregunta": "¿En qué año se produjo la caída del Muro de Berlín?",
+                "opciones": ["1989", "1991", "1985", "1995"],
+                "respuesta_correcta": "1989"
+            },
+            {
+                "pregunta": "¿Quién fue el primer emperador romano?",
+                "opciones": ["Julio César", "Augusto", "Marco Antonio", "Nerón"],
+                "respuesta_correcta": "Augusto"
+            },
+            {
+                "pregunta": "¿Cuál fue el último año de la Guerra de Vietnam?",
+                "opciones": ["1975", "1969", "1980", "1973"],
+                "respuesta_correcta": "1975"
+            }
+        ]
+      },
+
+      {
+        "nombre": "Entretenimiento",
+        "id": "entretenimiento",
+        "color": "Rosa",
+        "preguntas": [
+            {
+                "pregunta": "¿Quién interpretó a James Bond en la película 'Casino Royale' del 2006?",
+                "opciones": ["Daniel Craig", "Pierce Brosnan", "Sean Connery", "Roger Moore"],
+                "respuesta_correcta": "Daniel Craig"
+            },
+            {
+                "pregunta": "¿Cuál es el título de la primera película de la saga 'Star Wars'?",
+                "opciones": ["La amenaza fantasma", "El retorno del Jedi", "Una nueva esperanza", "El imperio contraataca"],
+                "respuesta_correcta": "Una nueva esperanza"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del protagonista en la serie de televisión 'Breaking Bad'?",
+                "opciones": ["Walter White", "Jesse Pinkman", "Saul Goodman", "Mike Ehrmantraut"],
+                "respuesta_correcta": "Walter White"
+            },
+            {
+                "pregunta": "¿Quién es el director de la película 'El Padrino'?",
+                "opciones": ["Martin Scorsese", "Steven Spielberg", "Francis Ford Coppola", "Quentin Tarantino"],
+                "respuesta_correcta": "Francis Ford Coppola"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del personaje principal de la serie 'Friends'?",
+                "opciones": ["Rachel Green", "Monica Geller", "Joey Tribbiani", "Ross Geller"],
+                "respuesta_correcta": "Rachel Green"
+            },
+            {
+                "pregunta": "¿Cuál es el título de la primera película de la saga 'El Señor de los Anillos'?",
+                "opciones": ["La comunidad del anillo", "Las dos torres", "El retorno del rey", "Un viaje inesperado"],
+                "respuesta_correcta": "La comunidad del anillo"
+            },
+            {
+                "pregunta": "¿Qué actor interpreta a Tony Stark en las películas del Universo Cinematográfico de Marvel?",
+                "opciones": ["Chris Hemsworth", "Chris Evans", "Robert Downey Jr.", "Mark Ruffalo"],
+                "respuesta_correcta": "Robert Downey Jr."
+            },
+            {
+                "pregunta": "¿Quién escribió la saga de libros 'Harry Potter'?",
+                "opciones": ["J.K. Rowling", "Stephen King", "George R.R. Martin", "Suzanne Collins"],
+                "respuesta_correcta": "J.K. Rowling"
+            },
+            {
+                "pregunta": "¿Cuál es el nombre del actor que interpreta a Batman en la trilogía de 'The Dark Knight'?",
+                "opciones": ["Christian Bale", "Ben Affleck", "Michael Keaton", "Val Kilmer"],
+                "respuesta_correcta": "Christian Bale"
+            },
+            {
+                "pregunta": "¿Qué película ganó el premio Óscar a la Mejor Película en 1994?",
+                "opciones": ["Titanic", "Forrest Gump", "Pulp Fiction", "El Rey León"],
+                "respuesta_correcta": "Forrest Gump"
+            }
+        ]
+      },
+
+      {
+        "nombre": "Ciencias y Naturaleza",
+        "id": "ciencias-y-naturaleza",
+        "color": "Verde",
+        "preguntas": [
+            {
+                "pregunta": "¿Cuál es el planeta más grande del sistema solar?",
+                "opciones": ["Júpiter", "Saturno", "Urano", "Neptuno"],
+                "respuesta_correcta": "Júpiter"
+            },
+            {
+                "pregunta": "¿Cuál es el elemento químico más abundante en la Tierra?",
+                "opciones": ["Oxígeno", "Carbono", "Hierro", "Silicio"],
+                "respuesta_correcta": "Oxígeno"
+            },
+            {
+                "pregunta": "¿Cuál es el animal más grande del mundo?",
+                "opciones": ["Elefante africano", "Ballena azul", "Girafa", "Tiburón ballena"],
+                "respuesta_correcta": "Ballena azul"
+            },
+            {
+                "pregunta": "¿Cuál es la velocidad de la luz en el vacío?",
+                "opciones": ["299,792,458 metros por segundo", "300,000,000 metros por segundo", "289,792,458 metros por segundo", "200,000,000 metros por segundo"],
+                "respuesta_correcta": "299,792,458 metros por segundo"
+            },
+            {
+                "pregunta": "¿Cuál es el hueso más largo del cuerpo humano?",
+                "opciones": ["Fémur", "Húmero", "Tibia", "Fibula"],
+                "respuesta_correcta": "Fémur"
+            },
+            {
+                "pregunta": "¿Cuál es la montaña más alta del mundo?",
+                "opciones": ["Monte Everest", "K2", "Kangchenjunga", "Makalu"],
+                "respuesta_correcta": "Monte Everest"
+            },
+            {
+                "pregunta": "¿Cuál es la enzima que descompone el peróxido de hidrógeno en agua y oxígeno?",
+                "opciones": ["Catalasa", "Lipasa", "Amilasa", "Proteasa"],
+                "respuesta_correcta": "Catalasa"
+            },
+            {
+                "pregunta": "¿Cuál es el ácido presente en el vinagre?",
+                "opciones": ["Ácido acético", "Ácido cítrico", "Ácido sulfúrico", "Ácido clorhídrico"],
+                "respuesta_correcta": "Ácido acético"
+            },
+            {
+                "pregunta": "¿Cuál es el proceso por el cual las plantas convierten la luz solar en energía?",
+                "opciones": ["Fotosíntesis", "Respiración", "Fermentación", "Metabolismo"],
+                "respuesta_correcta": "Fotosíntesis"
+            },
+            {
+                "pregunta": "¿Cuál es el hueso más pequeño del cuerpo humano?",
+                "opciones": ["Estribo", "Martillo", "Yunque", "Fibula"],
+                "respuesta_correcta": "Estribo"
+            }
+        ]
+      }
+
+    ]
+  }

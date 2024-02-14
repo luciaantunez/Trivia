@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia</title>
+    <link rel="stylesheet" href="css\style.css">
+</head>
+
+<body>
+    <form action="" method="get" id="welcome-form">
+        <h1>Bienvenido!</h1><br>
+        <label for="name">Cómo te llamas?</label><br>
+        <input type="text" name="name" id="name">
+        <button id="btn-continue" >Siguiente</button>
+    </form>
+
+    <div id="category-page" style="display: none;">
+        <h1 id="username">Elije una categoría</h1>
+        <button id="geografia">Geografía</button><br>
+        <button id="arte-y-literatura">Arte y Literatura</button><br>
+        <button id="historia">Historia</button><br>
+        <button id="entretenimiento">Entretenimiento</button><br>
+        <button id="ciencias-y-naturaleza">Ciencias y Naturaleza</button><br>
+    </div>
+
+    <div id="pregunta">
+    </div>
+
+<script src="js/script.js"></script>
+</body>
+</html>

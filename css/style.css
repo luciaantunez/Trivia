@@ -1,0 +1,26 @@
+html, body {
+    height:100%;
+    color: rgb(255, 255, 255);
+    font-family: Helvetica, Arial;
+}
+
+body {
+    background-image: linear-gradient(rgba(255, 32, 170, 0.5),
+    rgba(45, 206, 255, 0.3)), 
+    url("../css/img/quizWallpaper.jpg");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
+
+#welcome-form, #category-page, #pregunta{
+    justify-content: center;
+    display: flex;
+    margin: 0 auto;
+    margin-top: 13%;
+    margin-left: 30%;
+    flex-direction:column;
+    width: 40%;
+    padding: 3%;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.6);
+    background-color: rgba(21, 0, 26, 0.721);
+}
